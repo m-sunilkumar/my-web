@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0cc00f5a.chunk.css",
+    "main.js": "/static/js/main.cd1e9599.chunk.js",
+    "main.js.map": "/static/js/main.cd1e9599.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.07d33041.js",
+    "runtime-main.js.map": "/static/js/runtime-main.07d33041.js.map",
+    "static/js/2.2ab735ce.chunk.js": "/static/js/2.2ab735ce.chunk.js",
+    "static/js/2.2ab735ce.chunk.js.map": "/static/js/2.2ab735ce.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.755df119af5e57797f04b40cf0402f05.js": "/precache-manifest.755df119af5e57797f04b40cf0402f05.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0cc00f5a.chunk.css.map": "/static/css/main.0cc00f5a.chunk.css.map",
+    "static/js/2.2ab735ce.chunk.js.LICENSE.txt": "/static/js/2.2ab735ce.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/static/media/simon-abrams-k_T9Zj3SE8k-unsplash.1eb3dcd4.jpg",
+    "static/media/facebook.svg": "/static/media/facebook.d3d5088f.svg",
+    "static/media/instagram.svg": "/static/media/instagram.15bc5470.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.ab46037f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07d33041.js",
+    "static/js/2.2ab735ce.chunk.js",
+    "static/css/main.0cc00f5a.chunk.css",
+    "static/js/main.cd1e9599.chunk.js"
+  ]
+}
